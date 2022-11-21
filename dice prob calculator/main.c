@@ -122,5 +122,4 @@ int main()
     printf("The probability of 10 is %.3f %\n", ans10);
     printf("The probability of 11 is %.3f %\n", ans11);
     printf("The probability of 12 is %.3f %\n", ans12);
-
 }
