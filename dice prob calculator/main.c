@@ -111,15 +111,16 @@ int main()
     ans11 = ans11*100;
     ans12 = ((float)tm16/td1)*((float)tm26/td2);
     ans12 = ans12*100;
-    printf("The probability of 2 is %.3f %\n", ans2);
-    printf("The probability of 3 is %.3f %\n", ans3);
-    printf("The probability of 4 is %.3f %\n", ans4);
-    printf("The probability of 5 is %.3f %\n", ans5);
-    printf("The probability of 6 is %.3f %\n", ans6);
-    printf("The probability of 7 is %.3f %\n", ans7);
-    printf("The probability of 8 is %.3f %\n", ans8);
-    printf("The probability of 9 is %.3f %\n", ans9);
-    printf("The probability of 10 is %.3f %\n", ans10);
-    printf("The probability of 11 is %.3f %\n", ans11);
-    printf("The probability of 12 is %.3f %\n", ans12);
+    printf("The probability of 2 is %.3f %%\n", ans2);
+    printf("The probability of 3 is %.3f %%\n", ans3);
+    printf("The probability of 4 is %.3f %%\n", ans4);
+    printf("The probability of 5 is %.3f %%\n", ans5);
+    printf("The probability of 6 is %.3f %%\n", ans6);
+    printf("The probability of 7 is %.3f %%\n", ans7);
+    printf("The probability of 8 is %.3f %%\n", ans8);
+    printf("The probability of 9 is %.3f %%\n", ans9);
+    printf("The probability of 10 is %.3f %%\n", ans10);
+    printf("The probability of 11 is %.3f %%\n", ans11);
+    printf("The probability of 12 is %.3f %%\n", ans12);
+    return main();
 }
